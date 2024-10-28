@@ -104,4 +104,4 @@ We welcome contributions from the community! Feel free to open issues and pull r
 
 ### Suggestions & Feedback
 
-If you have suggestions or feedback on how to improve this project, feel free to post them on our [GitHub Issues](https://github.com/Sagnik-Coder24/issues) page. We love hearing your ideas and collaborating with the community!
+If you have suggestions or feedback on how to improve this project, feel free to post them on our [GitHub Issues](https://github.com/Sagnik-Coder24/You-Tube/issues) page. We love hearing your ideas and collaborating with the community!
